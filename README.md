@@ -18,6 +18,7 @@ The code was written by Alex Strandberg and is licensed under the MIT License, c
 ## Arduino Libraries
 
 - [Keypad](http://playground.arduino.cc/code/Keypad)
+- [SD](http://arduino.cc/en/Reference/SD)
 - [ServoTimer2](http://forum.arduino.cc/index.php/topic,21975.0.html)
 - [Time](http://playground.arduino.cc/code/time)
 - [VirtualWire](http://www.airspayce.com/mikem/arduino/VirtualWire/)
